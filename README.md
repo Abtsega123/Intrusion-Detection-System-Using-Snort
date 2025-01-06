@@ -204,8 +204,8 @@ Nmap TCP Scan Detect With Rule
 ## _Team Members_
 
 
-* _Aleyna Eser - 17030411052_  
-* _Rumeysa Özer - 17030411005_
+* _Abtsega Tesfaye Chufare  
+
 
 
 ## _References_
